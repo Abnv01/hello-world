@@ -1,2 +1,3 @@
 # hello-world
-This is just a sample.
+Hi Humans,
+Enjoy you life.
